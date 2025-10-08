@@ -5,7 +5,7 @@ namespace Exercise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Eneter number of odd numbers between 7 amd 15");
+            Console.WriteLine("Enter number of odd numbers between 7 amd 15");
             int odd = Convert.ToInt32(Console.ReadLine());
             int i;
             int sum=0;
@@ -26,4 +26,5 @@ namespace Exercise
            
         }
     }
+
 }
